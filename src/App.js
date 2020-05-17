@@ -1,11 +1,13 @@
-import React from 'react';
-import Test from './components/Test';
+import React, {useState} from 'react';
+// import Test from './components/Test';
 import './App.css';
+import Header from './components/Header';
 
 function App() {
+  const [navItem, setNavItem] = useState(0);
   return (
     <div>
-      <Test />
+      <Header navItem={navItem} />
     </div>
   );
 }

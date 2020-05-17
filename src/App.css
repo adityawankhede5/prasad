@@ -1,5 +1,9 @@
 html{
     font-size: calc(16px + (19 - 16) * ((100vw - 300px) / (768 - 300)));
+    background-color: #F6F6F6;
+}
+*{
+    box-sizing: border-box;
 }
 
 @media (min-width: 768px){

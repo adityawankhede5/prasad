@@ -1,0 +1,27 @@
+.header{
+    /* border: 5px solid cadetblue; */
+    display: flex;
+    padding: 10px 5%;
+}
+.logo{
+    /* border: 5px solid crimson; */
+    flex-grow: 1;
+    font-weight: 700;
+}
+.items{
+    /* border: 5px solid crimson; */
+    text-align: right;
+}
+.item{
+    /* border: 5px solid lightgreen; */
+    display: none;
+    margin: 0px 15px;
+}
+@media (min-width: 768px){
+    .items{
+        font-weight: 700;
+    }
+    .item{
+        display: initial;
+    }
+}
