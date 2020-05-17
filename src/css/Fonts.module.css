@@ -1,0 +1,50 @@
+/* MERRIWEATHER FONT */
+.merriweather{
+    font-family: 'Merriweather', serif;
+}
+.mwLight{
+    composes: merriweather;
+    font-weight: 300;
+}
+.mwBold{
+    composes: merriweather;
+    font-weight: 700;
+}
+.mwItalicRed{
+    composes: merriweather;
+    font-style: italic;
+    color: #CC3939;
+}
+
+/* POPPINS FONT */
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.poppinsLight{
+    composes: poppins;
+    font-weight: 300;
+}
+.poppinsLightItalic{
+    composes: poppins poppinsLight;
+    font-style: italic;
+}
+.poppinsMedium{
+    composes: poppins;
+    font-weight: 500;
+}
+.poppinsSemiBold{
+    composes: poppins;
+    font-weight: 600;
+}
+.poppinsBold{
+    composes: poppins;
+    font-weight: 700;
+}
+/* RALEWAY FONT */
+.raleway{
+    font-family: 'Raleway', sans-serif;
+}
+.rwBold{
+    composes: raleway;
+    font-weight: 700;
+}
