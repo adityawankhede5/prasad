@@ -1,9 +1,14 @@
+*{
+    box-sizing: border-box;
+}
 html{
     font-size: calc(16px + (19 - 16) * ((100vw - 300px) / (768 - 300)));
     background-color: #F6F6F6;
 }
-*{
-    box-sizing: border-box;
+img{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
 }
 
 @media (min-width: 768px){

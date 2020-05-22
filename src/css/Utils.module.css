@@ -1,0 +1,15 @@
+.hideOnMobile{
+    display: none;
+}
+.hideOnDesktop{
+    display: initial;
+}
+
+@media (min-width: 768px){
+    .hideOnMobile{
+        display: initial;
+    }
+    .hideOnDesktop{
+        display: none;
+    }
+}

@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1860.716" height="1159.823" viewBox="0 0 1860.716 1159.823">
+  <defs>
+    <filter id="Path_58" x="0" y="347.823" width="382.478" height="274.59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_59" x="69.931" y="755.814" width="367.069" height="185.01" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_57" x="516" y="785.818" width="582.569" height="240.005" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_56" x="1271.895" y="825.811" width="475.105" height="271.111" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_53" x="261.924" y="0" width="526.969" height="376.981" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_54" x="928" y="71.424" width="511.401" height="219.4" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_55" x="1466.206" y="284.823" width="394.51" height="403.898" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3436" data-name="Group 3436" transform="translate(-39 -2690.177)">
+    <path id="Path_52" data-name="Path 52" stroke="#cc3939" d="M-8636.94-3768s25.705-164.893,177.08-167.749,639.773-22.849,639.773-22.849l519.816,22.849s171.368,37.13,148.519,182.792-128.526,476.974-128.526,476.974-402.715,79.972-539.809,0-622.636-34.274-622.636-34.274" fill="none" transform="translate(8869 6847)" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" stroke-dasharray="12"/>
+    <g id="Group_3435" data-name="Group 3435">
+      <g id="Group_3434" data-name="Group 3434">
+        <g id="Group_3433" data-name="Group 3433">
+          <g transform="matrix(1, 0, 0, 1, 39, 2690.18)" filter="url(#Path_58)">
+            <path id="Path_58-2" data-name="Path 58" d="M123.255,0H286.541c68.072,0,77.936,38.293,77.936,85.53l-27.39,85.53c0,47.237,17.525,85.53-50.547,85.53H123.255C55.183,256.59,20,218.3,20,171.06L0,85.53C0,38.293,55.183,0,123.255,0Z" transform="translate(9 353.82)" fill="#eef0f9"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 39, 2690.18)" filter="url(#Path_59)">
+            <path id="Path_59-2" data-name="Path 59" d="M106.864,25.309,295.31,18.99c53.085,0,75.387,24.081,75.387,74.933S383.284,186,330.2,186H97.441c-51.492,0-72.021-29.675-74.509-78.659-.064-1.261,10.405-25.947,10.405-27.473C71.95,36.529,53.779,25.309,106.864,25.309Z" transform="translate(56 742.82)" fill="#f8e6e6"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 39, 2690.18)" filter="url(#Path_57)">
+            <path id="Path_57-2" data-name="Path 57" d="M126.677,39.995H384.3c1.813,0,56.648,12.873,58.668,13,49.315,35,121.6,1.52,121.6,64.005v28c0,64.617-44.539,117-99.48,117H99.48C44.539,262,0,209.617,0,145V117C0,52.383,71.736,39.995,126.677,39.995Z" transform="translate(525 751.82)" fill="#dcf9df"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 39, 2690.18)" filter="url(#Path_56)">
+            <path id="Path_56-2" data-name="Path 56" d="M133.295,8.5,372,0c64.617,0,22.6,26.981,81.772,91.141l35.228,63c0,68.692-21.988,64.419-86.6,64.419l-245.7,34.549c-64.617,0-78-60.042-78-128.733l-46.8-75.8C31.9-20.112,68.678,8.5,133.295,8.5Z" transform="translate(1249 831.81)" fill="#eef0f9"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 39, 2690.18)" filter="url(#Path_53)">
+            <path id="Path_53-2" data-name="Path 53" d="M36.92-31.781,346.749,23c65.308,0,109.126,7.044,109.126,70.556S451.077,230,385.77,230H343.976L130.76,219.217C65.452,219.217.171,178.513.171,115S-28.388-31.781,36.92-31.781Z" transform="translate(283.96 139.52) rotate(-13)" fill="#fbf4f4"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 39, 2690.18)" filter="url(#Path_54)">
+            <path id="Path_54-2" data-name="Path 54" d="M132,28.6,431,49.4c63.513,0,62.4,23.587,62.4,87.1S421.713,195,358.2,195L115,230A115,115,0,0,1,0,115C0,51.487,68.487,28.6,132,28.6Z" transform="translate(937 48.82)" fill="#eef0f9"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 39, 2690.18)" filter="url(#Path_55)">
+            <path id="Path_55-2" data-name="Path 55" d="M84.9,41.4,336,0c64.617,0,76.5,61.281,76.5,125.9L393,210.4c0,64.617,64.617,175.5,0,175.5H187.6c-64.617,0-102.7-9.483-102.7-74.1L54,157.1C54,92.481,20.28,41.4,84.9,41.4Z" transform="translate(1430 290.82)" fill="#d6f8fb"/>
+          </g>
+          <text id="Usability_Testing_1_The_goal_was_to_find_pain_points_and_weaknesses_the_users_are_experiencing._._" data-name="Usability Testing(1) – 
+The goal was to find pain points and weaknesses the users are experiencing.
+. 
+" transform="translate(99 3103)" fill="#261d61" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="26">Usability Testing(1) – </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="56">The goal was to find </tspan><tspan x="0" y="86">pain points and </tspan><tspan x="0" y="116">weaknesses the users </tspan><tspan x="0" y="146">are experiencing.</tspan></tspan></text>
+          <text id="Competitive_analysis_users_don_t_use_a_solo_app_for_their_interests_so_it_is_very_important_to_analyse_the_competitor._" data-name="Competitive analysis – 
+users don’t use a solo app for their interests so it is very important to analyse the competitor.
+" transform="translate(381 2810)" fill="#05297e" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="26">Competitive analysis – </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="56">users don’t use a solo app for </tspan><tspan x="0" y="86">their interests so it is very </tspan><tspan x="0" y="116">important to analyse the </tspan><tspan x="0" y="146">competitor.</tspan></tspan></text>
+          <text id="Usability_Testing_2_Was_to_identify_problems_in_UI_IA_and_user_flows_in_exiting_app._" data-name="Usability Testing(2) – 
+Was to identify problems in UI, IA and user flows in exiting app.
+" transform="translate(1035 2822)" fill="#261d61" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="26">Usability Testing(2) – </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="56">Was to identify problems in UI, </tspan><tspan x="0" y="86">IA and user flows in exiting app.</tspan><tspan x="0" y="116"></tspan></tspan></text>
+          <text id="Paper_sketching_and_low_fidelity_Considering_the_initial_problems_and_Competitive_analysis_prototyping_on_the_paper_for_user_feedback_for_low_fidelity_prototyping._" data-name="Paper sketching and low fidelity – 
+Considering the initial problems and Competitive analysis, prototyping on the paper for user feedback for low fidelity prototyping.
+" transform="translate(1585 3034)" fill="#261d61" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="26">Paper sketching and </tspan><tspan x="0" y="56">low fidelity – </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="86">Considering the </tspan><tspan x="0" y="116">initial problems and </tspan><tspan x="0" y="146">Competitive analysis, </tspan><tspan x="0" y="176">prototyping on the </tspan><tspan x="0" y="206">paper for user </tspan><tspan x="0" y="236">feedback for low </tspan><tspan x="0" y="266">fidelity prototyping.</tspan><tspan x="0" y="296"></tspan></tspan></text>
+          <text id="Wireframing_With_consideration_of_finding_in_user_testing_2_wireframing_is_to_be_done_so_that_we_can_proceed_towards_the_final_product._" data-name="Wireframing – 
+With consideration of finding in user testing 2, wireframing is to be done so that we can proceed towards the final product.
+" transform="translate(620 3523)" fill="#261d61" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="26">Wireframing – </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="56">With consideration of finding in user </tspan><tspan x="0" y="86">testing 2, wireframing is to be done </tspan><tspan x="0" y="116">so that we can proceed towards the </tspan><tspan x="0" y="146">final product.</tspan></tspan></text>
+          <text id="High_Fidelity_Design_Upgrading_to_high_fidelity_from_low_fidelity." data-name="High Fidelity Design – 
+Upgrading to high fidelity from low fidelity." transform="translate(177 3482)" fill="#261d61" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="26">High Fidelity Design – </tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="56">Upgrading to high </tspan><tspan x="0" y="86">fidelity from low </tspan><tspan x="0" y="116">fidelity.</tspan></tspan></text>
+          <text id="User_Testing_3_Was_to_identify_new_doubts_and_see_if_weak_points_mentioned_in_UT_2_were_still_there" data-name="User Testing(3) –
+Was to identify new doubts and see if weak points mentioned in UT#2 were still there" transform="translate(1427 3558)" fill="#261d61" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="26">User Testing(3) –</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="56">Was to identify new </tspan><tspan x="0" y="86">doubts and see if </tspan><tspan x="0" y="116">weak points </tspan><tspan x="0" y="146">mentioned in UT#2 </tspan><tspan x="0" y="176">were still there</tspan></tspan></text>
+          <text id="User_Testing" data-name="User 
+Testing" transform="translate(733 3283)" fill="#261d61" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-39.17" y="0">User </tspan><tspan x="-58.271" y="38">Testing</tspan></text>
+          <text id="Competitive_Analysis" data-name="Competitive Analysis" transform="translate(973 3119)" fill="#1228f1" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Competitive Analysis</tspan></text>
+          <text id="Paper_Sketching_and_Low_fidelity_" data-name="Paper Sketching and Low fidelity  " transform="translate(909 3195)" fill="#1228f1" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Paper Sketching and Low fidelity  </tspan></text>
+          <text id="Wire_Framing" data-name="Wire Framing" transform="translate(1013 3277)" fill="#1228f1" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Wire Framing</tspan></text>
+          <text id="High_Fidelity_Design_" data-name="High Fidelity Design " transform="translate(973 3359)" fill="#1228f1" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">High Fidelity Design </tspan></text>
+          <text id="_" data-name="&gt;" transform="translate(840.75 3223.11) rotate(180)" fill="#32f559" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+          <text id="_2" data-name="&gt;" transform="translate(841.75 3306.11) rotate(180)" fill="#32f559" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+          <text id="_3" data-name="&gt;" transform="translate(1112.75 3153.11) rotate(90)" fill="#32f559" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+          <line id="Line_42" data-name="Line 42" x2="27.556" transform="translate(1119.25 3131.055) rotate(90)" fill="none" stroke="#19f544" stroke-width="1"/>
+          <text id="_4" data-name="&gt;" transform="translate(1112.75 3236.11) rotate(90)" fill="#32f559" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+          <line id="Line_42-2" data-name="Line 42" x2="27.556" transform="translate(1119.25 3213.055) rotate(90)" fill="none" stroke="#19f544" stroke-width="1"/>
+          <text id="_5" data-name="&gt;" transform="translate(1112.75 3317.11) rotate(90)" fill="#32f559" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+          <line id="Line_42-3" data-name="Line 42" x2="27.556" transform="translate(1119.25 3295.055) rotate(90)" fill="none" stroke="#19f544" stroke-width="1"/>
+          <text id="_6" data-name="&gt;" transform="translate(1054.75 3154.11)" fill="#32f559" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+          <line id="Line_52" data-name="Line 52" x1="224" transform="translate(836.5 3147.5)" fill="none" stroke="#19f544" stroke-width="1"/>
+          <line id="Line_53" data-name="Line 53" x1="224" transform="translate(836.5 3229.5)" fill="none" stroke="#19f544" stroke-width="1"/>
+          <line id="Line_54" data-name="Line 54" x1="224" transform="translate(836.5 3312.5)" fill="none" stroke="#19f544" stroke-width="1"/>
+          <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M58.084,65.344A32.672,32.672,0,1,0,25.412,32.672,32.681,32.681,0,0,0,58.084,65.344ZM87.126,72.6h-12.5a39.5,39.5,0,0,1-33.081,0h-12.5A29.04,29.04,0,0,0,0,101.647v3.63a10.894,10.894,0,0,0,10.891,10.891h94.386a10.894,10.894,0,0,0,10.891-10.891v-3.63A29.04,29.04,0,0,0,87.126,72.6Z" transform="translate(672.432 3126.833)"/>
+          <text id="_1" data-name="1" transform="translate(867 3152)" fill="#9c90eb" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-6.577" y="0">1</tspan></text>
+          <text id="_2-2" data-name="2" transform="translate(865 3231)" fill="#9c90eb" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-8.987" y="0">2</tspan></text>
+          <text id="_3-2" data-name="3" transform="translate(867 3314)" fill="#9c90eb" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-8.569" y="0">3</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

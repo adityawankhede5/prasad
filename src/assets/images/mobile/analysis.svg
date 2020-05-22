@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="129" viewBox="0 0 375 129">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="12" height="109.5" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3422" data-name="Group 3422" transform="translate(-30 -1445)">
+    <text id="User_Testing" data-name="User 
+Testing" transform="translate(69 1548)" fill="#261d61" font-size="15" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-19.585" y="0">User </tspan><tspan x="-29.136" y="19">Testing</tspan></text>
+    <text id="Competitive_Analysis" data-name="Competitive Analysis" transform="translate(171 1460)" fill="#261d61" font-size="15" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Competitive Analysis</tspan></text>
+    <text id="Paper_Sketching_and_Low_fidelity_" data-name="Paper Sketching and Low fidelity  " transform="translate(140 1497)" fill="#261d61" font-size="15" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Paper Sketching and Low fidelity  </tspan></text>
+    <text id="Wire_Framing" data-name="Wire Framing" transform="translate(207 1533)" fill="#261d61" font-size="15" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Wire Framing</tspan></text>
+    <text id="High_Fidelity_Design_" data-name="High Fidelity Design " transform="translate(178 1570)" fill="#261d61" font-size="15" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">High Fidelity Design </tspan></text>
+    <g id="Group_3419" data-name="Group 3419">
+      <line id="Line_63" data-name="Line 63" x1="114.5" transform="translate(123 1473.5)" fill="none" stroke="#19f544" stroke-width="0.8"/>
+      <text id="_" data-name="&gt;" transform="translate(235 1476)" fill="#32f559" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+    </g>
+    <g id="Group_3420" data-name="Group 3420" transform="translate(0 7)">
+      <line id="Line_63-2" data-name="Line 63" x1="114.5" transform="translate(123 1506.5)" fill="none" stroke="#19f544" stroke-width="0.8"/>
+      <text id="_2" data-name="&gt;" transform="translate(125 1504) rotate(180)" fill="#32f559" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+    </g>
+    <g id="Group_3421" data-name="Group 3421" transform="translate(0 7)">
+      <line id="Line_63-3" data-name="Line 63" x1="114.5" transform="translate(123 1539.5)" fill="none" stroke="#19f544" stroke-width="0.8"/>
+      <text id="_3" data-name="&gt;" transform="translate(125 1537) rotate(180)" fill="#32f559" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+    </g>
+    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M36.916,41.531A20.765,20.765,0,1,0,16.151,20.765,20.771,20.771,0,0,0,36.916,41.531Zm18.458,4.615H47.429a25.1,25.1,0,0,1-21.025,0H18.458A18.457,18.457,0,0,0,0,64.6v2.307a6.924,6.924,0,0,0,6.922,6.922H66.911a6.924,6.924,0,0,0,6.922-6.922V64.6A18.457,18.457,0,0,0,55.374,46.145Z" transform="translate(30 1455)"/>
+    <text id="_1" data-name="1" transform="translate(139 1475)" fill="#9c90eb" font-size="15" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-3.289" y="0">1</tspan></text>
+    <text id="_2-2" data-name="2" transform="translate(138 1515)" fill="#9c90eb" font-size="15" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-4.493" y="0">2</tspan></text>
+    <text id="_3-2" data-name="3" transform="translate(138 1548)" fill="#9c90eb" font-size="15" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="-4.285" y="0">3</tspan></text>
+    <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(249 1462.5)" clip-path="url(#clip-path)">
+      <g id="Group_3418" data-name="Group 3418" transform="translate(-249 -1464.5)">
+        <text id="_4" data-name="&gt;" transform="translate(251 1475) rotate(90)" fill="#32f559" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+        <line id="Line_66" data-name="Line 66" y2="8.11" transform="translate(253.25 1468.5)" fill="none" stroke="#19f544" stroke-width="0.8"/>
+      </g>
+      <g id="Group_3418-2" data-name="Group 3418" transform="translate(-249 -1426.5)">
+        <text id="_5" data-name="&gt;" transform="translate(251 1475) rotate(90)" fill="#32f559" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+        <line id="Line_66-2" data-name="Line 66" y2="8.11" transform="translate(253.25 1468.5)" fill="none" stroke="#19f544" stroke-width="0.8"/>
+      </g>
+      <g id="Group_3418-3" data-name="Group 3418" transform="translate(-249 -1388.5)">
+        <text id="_6" data-name="&gt;" transform="translate(251 1475) rotate(90)" fill="#32f559" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">&gt;</tspan></text>
+        <line id="Line_66-3" data-name="Line 66" y2="8.11" transform="translate(253.25 1468.5)" fill="none" stroke="#19f544" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

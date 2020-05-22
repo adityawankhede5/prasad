@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1359" height="440" viewBox="0 0 1359 440">
+  <defs>
+    <filter id="Rectangle_2946" x="0" y="0" width="1359" height="440" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="1256" height="301" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3404" data-name="Group 3404" transform="translate(-255.5 -6128.5)">
+    <g transform="matrix(1, 0, 0, 1, 255.5, 6128.5)" filter="url(#Rectangle_2946)">
+      <rect id="Rectangle_2946-2" data-name="Rectangle 2946" width="1314" height="395" transform="translate(22.5 17.5)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_2947" data-name="Rectangle 2947" width="293" height="395" transform="translate(714 6146)" fill="#def8e5"/>
+    <rect id="Rectangle_2948" data-name="Rectangle 2948" width="293" height="395" transform="translate(1007 6146)" fill="#fff564"/>
+    <g id="Group_3403" data-name="Group 3403" transform="translate(83 1)">
+      <text id="Playing_Experience" data-name="Playing Experience" transform="translate(229 6204)" fill="#cc3939" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Playing Experience</tspan></text>
+      <text id="Tactics_Trainer" data-name="Tactics Trainer" transform="translate(229 6264)" fill="#cc3939" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Tactics Trainer</tspan></text>
+      <text id="Video_Series_and_Lectures" data-name="Video Series and Lectures" transform="translate(229 6324)" fill="#cc3939" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Video Series and Lectures</tspan></text>
+      <text id="Online_Chess_Analysis" data-name="Online Chess Analysis" transform="translate(229 6384)" fill="#cc3939" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Online Chess Analysis</tspan></text>
+      <text id="Chess_App" data-name="Chess App" transform="translate(229 6444)" fill="#cc3939" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Chess App</tspan></text>
+      <text id="Price" transform="translate(229 6504)" fill="#cc3939" font-size="30" font-family="Merriweather-Bold, Merriweather" font-weight="700"><tspan x="0" y="0">Price</tspan></text>
+    </g>
+    <g id="Group_3400" data-name="Group 3400" transform="translate(7 3)">
+      <text id="Lichess" transform="translate(854 6204)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-54.63" y="0">Lichess</tspan></text>
+      <text id="Chess24" transform="translate(854 6264)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-64.965" y="0">Chess24</tspan></text>
+      <text id="Chess24-2" data-name="Chess24" transform="translate(854 6324)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-64.965" y="0">Chess24</tspan></text>
+      <text id="Lichess-2" data-name="Lichess" transform="translate(854 6384)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-54.63" y="0">Lichess</tspan></text>
+      <text id="Lichess-3" data-name="Lichess" transform="translate(854 6444)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-54.63" y="0">Lichess</tspan></text>
+      <text id="Lichess_Free_" data-name="Lichess(Free)" transform="translate(854 6504)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-101.385" y="0">Lichess(Free)</tspan></text>
+    </g>
+    <g id="Group_3401" data-name="Group 3401" transform="translate(-50 4)">
+      <text id="Chess.com" transform="translate(1204 6204)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-84.375" y="0">Chess.com</tspan></text>
+      <text id="Lichess-4" data-name="Lichess" transform="translate(1204 6264)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-54.63" y="0">Lichess</tspan></text>
+      <text id="Chess.com-2" data-name="Chess.com" transform="translate(1204 6324)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-84.375" y="0">Chess.com</tspan></text>
+      <text id="Chess.com-3" data-name="Chess.com" transform="translate(1204 6384)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-84.375" y="0">Chess.com</tspan></text>
+      <text id="Chess.com-4" data-name="Chess.com" transform="translate(1204 6444)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-84.375" y="0">Chess.com</tspan></text>
+      <text id="Chess.com-5" data-name="Chess.com" transform="translate(1204 6504)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-84.375" y="0">Chess.com</tspan></text>
+    </g>
+    <rect id="Rectangle_2949" data-name="Rectangle 2949" width="293" height="395" transform="translate(1299 6146)" fill="#fbbdbd"/>
+    <g id="Group_3402" data-name="Group 3402" transform="translate(-66 4)">
+      <text id="Chess24-3" data-name="Chess24" transform="translate(1512 6204)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-64.965" y="0">Chess24</tspan></text>
+      <text id="Chess.com-6" data-name="Chess.com" transform="translate(1512 6264)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-84.375" y="0">Chess.com</tspan></text>
+      <text id="Lichess-5" data-name="Lichess" transform="translate(1512 6324)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-54.63" y="0">Lichess</tspan></text>
+      <text id="Chess24-4" data-name="Chess24" transform="translate(1512 6384)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-64.965" y="0">Chess24</tspan></text>
+      <text id="Chess24-5" data-name="Chess24" transform="translate(1512 6444)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-64.965" y="0">Chess24</tspan></text>
+      <text id="Chess24-6" data-name="Chess24" transform="translate(1512 6504)" fill="#000101" font-size="30" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-64.965" y="0">Chess24</tspan></text>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(312.5 6224)" clip-path="url(#clip-path)">
+      <g transform="translate(-312.5 -6224)">
+        <line id="Line_55" data-name="Line 55" x2="1256" transform="translate(312.5 6224.5)" fill="none" stroke="#0c0b0b" stroke-width="1" opacity="0.76"/>
+      </g>
+      <g transform="translate(-312.5 -6163)">
+        <line id="Line_55-2" data-name="Line 55" x2="1256" transform="translate(312.5 6224.5)" fill="none" stroke="#0c0b0b" stroke-width="1" opacity="0.76"/>
+      </g>
+      <g transform="translate(-312.5 -6102)">
+        <line id="Line_55-3" data-name="Line 55" x2="1256" transform="translate(312.5 6224.5)" fill="none" stroke="#0c0b0b" stroke-width="1" opacity="0.76"/>
+      </g>
+      <g transform="translate(-312.5 -6041)">
+        <line id="Line_55-4" data-name="Line 55" x2="1256" transform="translate(312.5 6224.5)" fill="none" stroke="#0c0b0b" stroke-width="1" opacity="0.76"/>
+      </g>
+      <g transform="translate(-312.5 -5980)">
+        <line id="Line_55-5" data-name="Line 55" x2="1256" transform="translate(312.5 6224.5)" fill="none" stroke="#0c0b0b" stroke-width="1" opacity="0.76"/>
+      </g>
+    </g>
+  </g>
+</svg>
