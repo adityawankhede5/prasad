@@ -13,7 +13,7 @@ import diaryDesktop from '../assets/images/desktop/Group 29.png';
 function Intro() {
     return (
         <div className={styles.intro} >
-            <div className={`${fonts.poppinsSemiBold} ${styles.introHeader}`}>HI, I AM <span style={{color: '#E915AA'}}>PRASAD</span></div>
+            <div className={`${fonts.poppinsSemiBold} ${styles.introHeader}`}>HI, I AM <span style={{color: '#CC3939'}}>PRASAD</span></div>
             <div className={`${fonts.mwLight} ${styles.introContent}`}>
                 I'm a UX designer, trying to create meaningful experiences through design and intend to solve 
                 some real life problems.
