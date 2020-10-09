@@ -1,2 +1,400 @@
-body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}code{font-family:source-code-pro,Menlo,Monaco,Consolas,"Courier New",monospace}*{box-sizing:border-box}html{font-size:calc(16px + 3*(100vw - 300px)/468);background-color:#f6f6f6}img{width:100%;height:auto;max-width:100%}a,a:visited{text-decoration:none;color:#000;color:initial}@media (min-width:768px){html{font-size:calc(19px + 3*(100vw - 768px)/1232)}}.Fonts_merriweather__kfocd{font-family:"Merriweather",serif}.Fonts_mwLight__dqvIq{font-weight:300}.Fonts_mwBold__3gvHZ{font-weight:700}.Fonts_mwItalicRed__128Qo{font-style:italic;color:#cc3939}.Fonts_poppins__2-Gfw{font-family:"Poppins",sans-serif}.Fonts_poppinsLight__rLEbw{font-weight:300}.Fonts_poppinsLightItalic__-svMs{font-style:italic}.Fonts_poppinsMedium__yM6UA{font-weight:500}.Fonts_poppinsSemiBold__K1kah{font-weight:600}.Fonts_poppinsBold__hF1uH{font-weight:700}.Fonts_raleway__2Ea_Y{font-family:"Raleway",sans-serif}.Fonts_rwBold__1d-hS{font-weight:700}.Header_wrapper__19e2O{position:absolute;width:100%;padding:10px 5%;top:10px}.Header_header__15-6R{z-index:100;display:flex;padding-bottom:10px}.Header_logo__1NsNt{flex-grow:1;font-weight:700}.Header_items__3L68R{text-align:right}.Header_item__2c3jt{display:none;margin:0 15px}@media (min-width:768px){.Header_header__15-6R{border-bottom:1px solid #d8d3d3}.Header_items__3L68R{font-weight:700}.Header_item__2c3jt{display:inline;display:initial}}.Utils_hideOnMobile__1dwt0{display:none}.Utils_hideOnDesktop__2Ummm{display:inline;display:initial}@media (min-width:768px){.Utils_hideOnMobile__1dwt0{display:inline;display:initial}.Utils_hideOnDesktop__2Ummm{display:none}}.Homepage_wrapper__1UdQE{padding:0 5%}.Homepage_intro__3WSZZ{height:100vh;display:flex;flex-direction:column;justify-content:center;border-bottom:1px solid #d8d3d3}.Homepage_introHeader__2MUyJ{font-size:2.5em}.Homepage_introContent__3Rh7O{font-size:1.2em;margin:15px 0}.Homepage_introButton__1qK6o{font-size:1.2em;margin-top:60px}.Homepage_projectWrapper__oTMI5{display:flex;flex-direction:column;align-items:center;margin:50px 0;padding:50px 0;border-bottom:1px solid #d8d3d3;border-top:1px solid #d8d3d3}.Homepage_pImage__1JKW3{min-width:150px;max-width:400px;height:auto}.Homepage_pDetails__2fheD{text-align:center}@media (min-width:768px){.Homepage_wrapper__1UdQE{background:url(/prasad/static/media/homepagebg.e0f0c88a.svg);background-size:contain;background-position:50%;background-repeat:no-repeat}.Homepage_introContent__3Rh7O{width:50vw}.Homepage_projectWrapper__oTMI5{flex-direction:row-reverse;justify-content:space-between}.Homepage_pImage__1JKW3{width:50%;max-width:700px;height:auto}.Homepage_pDetails__2fheD{width:30%;text-align:left}.Homepage_aboutWrapper__1HzsU{display:flex;justify-content:center;align-items:center}.Homepage_aContent__3zDKu{color:#4b4b4b;font-size:1.3em;width:50%;margin:75px 0 75px 20%}}.AboutMe_wrapper__1F5ZI{padding:0 5%}.AboutMe_intro__1y2G9{min-height:100vh;display:flex;flex-direction:column;align-items:center;border-bottom:1px solid #d8d3d3;margin-top:50px}.AboutMe_me__3f98w{min-width:140px;width:40vw;max-width:200px}.AboutMe_meDetails__cmZFO{margin:10px 0}.AboutMe_resumeWrapper__3FrPj{margin:10px 0;border-bottom:1px solid #d8d3d3;display:flex;flex-direction:column}.AboutMe_resumeWrapper__3FrPj section{margin:30px 0}.AboutMe_title__2Z38y{font-size:1.4em}.AboutMe_heading__17yV-{font-size:1.3em}.AboutMe_subHeading__3CJUZ{font-size:1.2em}.AboutMe_content__2h6Gu{font-size:1em;font-style:italic}.AboutMe_pill__2UBjF{padding:10px 20px;background-color:#474545;border-radius:1024px;color:#fff;margin:5px;display:inline-block}.AboutMe_contact__S5bYb{font-size:1.2em}.AboutMe_contactInfo__N0dfe{display:inline-flex;flex-direction:column;align-items:center;align-self:center;font-size:.9em}@media (min-width:768px){.AboutMe_wrapper__1F5ZI{background-size:contain;background-position:50%;background-repeat:no-repeat}.AboutMe_intro__1y2G9{flex-direction:row}.AboutMe_me__3f98w{min-width:200px;width:50vw;max-width:300px;margin:0 50px}.AboutMe_meDetails__cmZFO{margin:0 50px}.AboutMe_resumeWrapper__3FrPj{flex-wrap:wrap;flex-direction:row;font-size:1.1em}.AboutMe_resumeWrapper__3FrPj section{margin:50px}.AboutMe_edu__2wCCq{width:100%}.AboutMe_exp__2r8K6,.AboutMe_skills__1VfuI{width:40%}.AboutMe_certi__3z5xQ{width:100%}.AboutMe_contact__S5bYb{width:100%;font-size:1.2em}.AboutMe_contactInfo__N0dfe{font-size:.65em}}.Carousel_wrapper__1x0uX{display:flex;justify-content:center;align-items:center}.Carousel_main__3RgJ8,.Carousel_slider__p2W5j{position:relative;display:flex;width:100%}.Carousel_slider__p2W5j{flex-wrap:nowrap;overflow:hidden;scroll-behavior:smooth}.Carousel_slide__uzhf1{flex-shrink:0;width:60%;margin:20px 10px;transition:all .2s;transform:scale(.85);background-size:contain;background-position:50%;background-repeat:no-repeat}.Carousel_control__ljjsp,.Carousel_slide__uzhf1{display:flex;align-items:center;justify-content:center}.Carousel_control__ljjsp{height:100%;padding:5px;position:absolute}.Carousel_leftAlign__3Cg40{left:0}.Carousel_rightAlign__uyT0g{right:0}.Chess_intro__34vP5{height:874px;background-image:url(/prasad/static/media/chessintro.a4e7f513.jpg);background-repeat:no-repeat;background-position:bottom;background-size:cover;display:flex;flex-direction:column;text-align:center}.Chess_introCard__3aBo6{display:flex;flex-direction:column;align-items:center;margin:100px 0 20px}.Chess_peiceWrapper__3FDGd{min-height:100v;padding:50px 0;border-bottom:1px solid #d8d3d3}.Chess_peice__1-vNz{display:flex;flex-direction:column}.Chess_peice__1-vNz>div,.Chess_peiceHeader__25lFS>div{margin:20px 0}.Chess_knightDetails__3QCQB{background:url(/prasad/static/media/knightbg.3d5a334c.svg);background-size:cover;background-position:50%;padding:50px 15px}.Chess_bishopDetails__345bi{background:url(/prasad/static/media/bishopbg.7eea7500.svg);background-size:cover;background-position:50%;padding:50px 15px}.Chess_pImg__3yGGr{width:100%;height:auto;margin:30px 0;display:flex;justify-content:center;align-items:center;text-align:center}.Chess_pImg__3yGGr img{width:40%}.Chess_pSub__3SCpV strong{font-weight:500;color:#ec3030}.Chess_rockImagesMobile__359I1{display:flex;flex-wrap:wrap;justify-content:center;align-items:center}.Chess_rockImagesMobile__359I1 div{margin:5px}.Chess_rockImagesDesktop__3EHuR{display:none}.Chess_sketches__3wict{display:flex;flex-wrap:wrap;flex-direction:row;justify-content:center;align-items:center}.Chess_sketches__3wict div{width:100%;margin:5px}.Chess_queenDetails__3XTlm{background:url(/prasad/static/media/queenbg.f79a3388.svg);background-size:cover;background-position:50%;background-repeat:no-repeat;padding:50px 15px}.Chess_kingDetails__3ScEG{background:url(/prasad/static/media/kingbg.81f33f27.svg);background-size:cover;background-position:50%;background-repeat:no-repeat;padding:50px 15px}@media (min-width:768px){.Chess_intro__34vP5{background:url(/prasad/static/media/chessbg.450987a4.jpg);background-position:50%;background-size:cover;background-repeat:no-repeat;justify-content:center;height:100vh}.Chess_introCard__3aBo6{margin-top:0;align-self:flex-start;flex-grow:1;justify-content:center;margin-left:10%}.Chess_peiceWrapper__3FDGd{position:relative}.Chess_peiceHeader__25lFS{width:60%}.Chess_pImg__3yGGr{max-width:500px;position:absolute;top:50px;right:0}.Chess_bishopDetails__345bi{background:url(/prasad/static/media/bishopbgdesktop.3ba78b69.svg);background-position:50%;background-repeat:no-repeat;background-size:cover;padding:10px 50px}.Chess_bishopDetails__345bi li{max-width:80%}.Chess_bishopImg__3YDxJ{width:60%;align-self:center}.Chess_knightDetails__3QCQB,.Chess_rockImagesMobile__359I1{display:none}.Chess_rockImagesDesktop__3EHuR{display:flex;flex-direction:row}.Chess_rockImagesDesktop__3EHuR div{margin:5px}.Chess_kingDetails__3ScEG,.Chess_queenDetails__3XTlm{background:url(/prasad/static/media/queenbgdesktop.fd08d1f3.svg);background-repeat:no-repeat;width:60%;background-size:cover;padding:65px 35px}.Chess_kingDetails__3ScEG{width:60%;background:url(/prasad/static/media/kingbgdesktop.984c23db.svg);padding:80px 50px}.Chess_controls__3CAbH{width:60%}.Chess_sketches__3wict div{width:40%}.Chess_onDesktop60__1_-al{width:60%}}
-/*# sourceMappingURL=main.7cfd8158.chunk.css.map */
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale}
+code {
+    font-family: source-code-pro,Menlo,Monaco,Consolas,"Courier New",monospace}
+* {
+    box-sizing: border-box}
+html {
+    font-size: calc(16px + 3*(100vw - 300px)/468);
+    background-color: #f6f6f6}
+img {
+    width: 100%;
+    height: auto;
+    max-width: 100%}
+a,a:visited {
+    text-decoration: none;
+    color: #000;
+    color: initial}
+@media (min-width: 768px) {
+    html {
+    font-size: calc(19px + 3*(100vw - 768px)/1232)}
+}
+.Fonts_merriweather__kfocd {
+    font-family: "Merriweather",serif}
+.Fonts_mwLight__dqvIq {
+    font-weight: 300}
+.Fonts_mwBold__3gvHZ {
+    font-weight: 700}
+.Fonts_mwItalicRed__128Qo {
+    font-style: italic;
+    color: #cc3939}
+.Fonts_poppins__2-Gfw {
+    font-family: "Poppins",sans-serif;
+padding-left:200px;
+    padding-right:200px;
+}
+.Fonts_poppinsLight__rLEbw {
+    font-weight: 300}
+.Fonts_poppinsLightItalic__-svMs {
+    font-style: italic}
+.Fonts_poppinsMedium__yM6UA {
+    font-weight: 500}
+.Fonts_poppinsSemiBold__K1kah {
+    font-weight: 600}
+.Fonts_poppinsBold__hF1uH {
+    font-weight: 700}
+.Fonts_raleway__2Ea_Y {
+    font-family: "Raleway",sans-serif}
+.Fonts_rwBold__1d-hS {
+    font-weight: 700}
+.Header_wrapper__19e2O {
+    position: absolute;
+    width: 100%;
+    padding-left:200px;
+    padding-right:200px;
+    top: 10px;
+
+    
+
+}
+.Header_header__15-6R {
+    z-index: 100;
+    display: flex;
+    padding-bottom: 10px}
+.Header_logo__1NsNt {
+    flex-grow: 1;
+    font-weight: 700}
+.Header_items__3L68R {
+    text-align: right}
+.Header_item__2c3jt {
+    display: none;
+    margin: 0 15px}
+@media (min-width: 768px) {
+    .Header_header__15-6R {
+    border-bottom: 1px solid #d8d3d3}
+.Header_items__3L68R {
+    font-weight: 700}
+.Header_item__2c3jt {
+    display: inline;
+    display: initial}
+}
+.Utils_hideOnMobile__1dwt0 {
+    display: none}
+.Utils_hideOnDesktop__2Ummm {
+    display: inline;
+    display: initial}
+@media (min-width: 768px) {
+    .Utils_hideOnMobile__1dwt0 {
+    display: inline;
+    display: initial}
+.Utils_hideOnDesktop__2Ummm {
+    display: none}
+}
+.Homepage_wrapper__1UdQE {
+    padding-left:200px;
+    padding-right:200px;
+}
+.Homepage_intro__3WSZZ {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-bottom: 1px solid #d8d3d3}
+.Homepage_introHeader__2MUyJ {
+    font-size: 2.5em}
+.Homepage_introContent__3Rh7O {
+    font-size: 1.2em;
+    margin: 15px 0}
+.Homepage_introButton__1qK6o {
+    font-size: 1.2em;
+    margin-top: 60px}
+.Homepage_projectWrapper__oTMI5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+    padding: 50px 0;
+    border-bottom: 1px solid #d8d3d3;
+    border-top: 1px solid #d8d3d3}
+.Homepage_pImage__1JKW3 {
+    min-width: 150px;
+    max-width: 400px;
+    height: auto}
+.Homepage_pDetails__2fheD {
+    text-align: center}
+@media (min-width: 768px) {
+    .Homepage_wrapper__1UdQE {
+    background: url(/prasad/static/media/homepagebg.e0f0c88a.svg);
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat}
+.Homepage_introContent__3Rh7O {
+    width: 50vw}
+.Homepage_projectWrapper__oTMI5 {
+    flex-direction: row-reverse;
+    justify-content: space-between}
+.Homepage_pImage__1JKW3 {
+    width: 50%;
+    max-width: 700px;
+    height: auto}
+.Homepage_pDetails__2fheD {
+    width: 30%;
+    text-align: left}
+.Homepage_aboutWrapper__1HzsU {
+    display: flex;
+    justify-content: center;
+    align-items: center}
+.Homepage_aContent__3zDKu {
+    color: #4b4b4b;
+    font-size: 1.3em;
+    width: 50%;
+    margin: 75px 0 75px 20%}
+}
+.AboutMe_wrapper__1F5ZI {
+    padding: 0 5%}
+.AboutMe_intro__1y2G9 {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 1px solid #d8d3d3;
+    margin-top: 50px}
+.AboutMe_me__3f98w {
+    min-width: 140px;
+    width: 40vw;
+    max-width: 200px}
+.AboutMe_meDetails__cmZFO {
+    margin: 10px 0}
+.AboutMe_resumeWrapper__3FrPj {
+    margin: 10px 0;
+    border-bottom: 1px solid #d8d3d3;
+    display: flex;
+    flex-direction: column}
+.AboutMe_resumeWrapper__3FrPj section {
+    margin: 30px 0}
+.AboutMe_title__2Z38y {
+    font-size: 1.4em}
+.AboutMe_heading__17yV- {
+    font-size: 1.3em}
+.AboutMe_subHeading__3CJUZ {
+    font-size: 1.2em}
+.AboutMe_content__2h6Gu {
+    font-size: 1em;
+    font-style: italic}
+.AboutMe_pill__2UBjF {
+    padding: 10px 20px;
+    background-color: #474545;
+    border-radius: 1024px;
+    color: #fff;
+    margin: 5px;
+    display: inline-block}
+.AboutMe_contact__S5bYb {
+    font-size: 1.2em}
+.AboutMe_contactInfo__N0dfe {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    font-size: .9em}
+@media (min-width: 768px) {
+    .AboutMe_wrapper__1F5ZI {
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat}
+.AboutMe_intro__1y2G9 {
+    flex-direction: row}
+.AboutMe_me__3f98w {
+    min-width: 200px;
+    width: 50vw;
+    max-width: 300px;
+    margin: 0 50px}
+.AboutMe_meDetails__cmZFO {
+    margin: 0 50px}
+.AboutMe_resumeWrapper__3FrPj {
+    flex-wrap: wrap;
+    flex-direction: row;
+    font-size: 1.1em}
+.AboutMe_resumeWrapper__3FrPj section {
+    margin: 50px}
+.AboutMe_edu__2wCCq {
+    width: 100%}
+.AboutMe_exp__2r8K6,.AboutMe_skills__1VfuI {
+    width: 40%}
+.AboutMe_certi__3z5xQ {
+    width: 100%}
+.AboutMe_contact__S5bYb {
+    width: 100%;
+    font-size: 1.2em}
+.AboutMe_contactInfo__N0dfe {
+    font-size: .65em}
+}
+.Carousel_wrapper__1x0uX {
+    display: flex;
+    justify-content: center;
+    align-items: center}
+.Carousel_main__3RgJ8,.Carousel_slider__p2W5j {
+    position: relative;
+    display: flex;
+    width: 100%}
+.Carousel_slider__p2W5j {
+    flex-wrap: nowrap;
+    overflow: hidden;
+    scroll-behavior: smooth}
+.Carousel_slide__uzhf1 {
+    flex-shrink: 0;
+    width: 60%;
+    margin: 20px 10px;
+    transition: all .2s;
+    transform: scale(.85);
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat}
+.Carousel_control__ljjsp,.Carousel_slide__uzhf1 {
+    display: flex;
+    align-items: center;
+    justify-content: center}
+.Carousel_control__ljjsp {
+    height: 100%;
+    padding: 5px;
+    position: absolute}
+.Carousel_leftAlign__3Cg40 {
+    left: 0}
+.Carousel_rightAlign__uyT0g {
+    right: 0}
+.Chess_intro__34vP5 {
+    height: 874px;
+    background-image: url(/prasad/static/media/chessintro.a4e7f513.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    text-align: center}
+.Chess_introCard__3aBo6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px 0 20px}
+.Chess_peiceWrapper__3FDGd {
+    min-height: 100v;
+    padding: 50px 0;
+    border-bottom: 1px solid #d8d3d3}
+.Chess_peice__1-vNz {
+    display: flex;
+    flex-direction: column}
+.Chess_peice__1-vNz>div,.Chess_peiceHeader__25lFS>div {
+    margin: 20px 0}
+.Chess_knightDetails__3QCQB {
+    background: url(/prasad/static/media/knightbg.3d5a334c.svg);
+    background-size: cover;
+    background-position: 50%;
+    padding: 50px 15px}
+.Chess_bishopDetails__345bi {
+    background: url(/prasad/static/media/bishopbg.7eea7500.svg);
+    background-size: cover;
+    background-position: 50%;
+    padding: 50px 15px}
+.Chess_pImg__3yGGr {
+    width: 100%;
+    height: auto;
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center}
+.Chess_pImg__3yGGr img {
+    width: 40%}
+.Chess_pSub__3SCpV strong {
+    font-weight: 500;
+    color: #ec3030}
+.Chess_rockImagesMobile__359I1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center}
+.Chess_rockImagesMobile__359I1 div {
+    margin: 5px}
+.Chess_rockImagesDesktop__3EHuR {
+    display: none}
+.Chess_sketches__3wict {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center}
+.Chess_sketches__3wict div {
+    width: 100%;
+    margin: 5px}
+.Chess_queenDetails__3XTlm {
+    background: url(/prasad/static/media/queenbg.f79a3388.svg);
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    padding: 50px 15px}
+.Chess_kingDetails__3ScEG {
+    background: url(/prasad/static/media/kingbg.81f33f27.svg);
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    padding: 50px 15px}
+@media (min-width: 768px) {
+    .Chess_intro__34vP5 {
+    background: url(/prasad/static/media/chessbg.450987a4.jpg);
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    height: 100vh}
+.Chess_introCard__3aBo6 {
+    margin-top: 0;
+    align-self: flex-start;
+    flex-grow: 1;
+    justify-content: center;
+    margin-left: 10%}
+.Chess_peiceWrapper__3FDGd {
+    position: relative}
+.Chess_peiceHeader__25lFS {
+    width: 60%}
+.Chess_pImg__3yGGr {
+    max-width: 500px;
+    position: absolute;
+    top: 50px;
+    right: 0}
+.Chess_bishopDetails__345bi {
+    background: url(/prasad/static/media/bishopbgdesktop.3ba78b69.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 50px}
+.Chess_bishopDetails__345bi li {
+    max-width: 80%}
+.Chess_bishopImg__3YDxJ {
+    width: 60%;
+    align-self: center}
+.Chess_knightDetails__3QCQB,.Chess_rockImagesMobile__359I1 {
+    display: none}
+.Chess_rockImagesDesktop__3EHuR {
+    display: flex;
+    flex-direction: row}
+.Chess_rockImagesDesktop__3EHuR div {
+    margin: 5px}
+.Chess_kingDetails__3ScEG,.Chess_queenDetails__3XTlm {
+    background: url(/prasad/static/media/queenbgdesktop.fd08d1f3.svg);
+    background-repeat: no-repeat;
+    width: 60%;
+    background-size: cover;
+    padding: 65px 35px}
+.Chess_kingDetails__3ScEG {
+    width: 60%;
+    background: url(/prasad/static/media/kingbgdesktop.984c23db.svg);
+    padding: 80px 50px}
+.Chess_controls__3CAbH {
+    width: 60%}
+.Chess_sketches__3wict div {
+    width: 40%}
+.Chess_onDesktop60__1_-al {
+    width: 60%}
+}
