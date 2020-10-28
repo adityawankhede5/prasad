@@ -27,7 +27,9 @@
 }
 @media (min-width: 768px){
     .header{    
-        border-bottom: 1px solid #D8D3D3;
+        margin: 5px 40px;
+        border-bottom: 1px solid #EFEBEB;
+        /* border: 5px solid crimson; */
     }
     .items{
         font-weight: 700;

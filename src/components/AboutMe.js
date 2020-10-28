@@ -4,6 +4,8 @@ import styles from '../css/AboutMe.module.css';
 import Me from '../assets/images/desktop/me.png';
 import linkedin from '../assets/images/desktop/linkedin.svg';
 import behance from '../assets/images/desktop/behance.svg';
+import certi from '../assets/images/desktop/certi.svg'
+import Carousel from './Carousel';
 
 function Intro () {
     return (
@@ -13,8 +15,8 @@ function Intro () {
             </div>
             <div className={styles.meDetails}>
                 <p>
-                    Hello, I'm Prasad. 3rd Year engineering student 
-                    from NIT Jalandhar. Looking forward to make carrier in User experience Design. 
+                    Hello, I'm Prasad. Final Year engineering student 
+                    from NIT Jalandhar. Looking forward to make a career in User experience Design. 
                 </p>
                 <p>
                     I am born and raised in Nanded, Maharashtra. While working with some graphics I realised that design
@@ -65,36 +67,56 @@ function Resume () {
     return (
         <div className={styles.resumeWrapper}>
             <section className={styles.edu}>
-                <Title text={"Eduction"} />
+                <Title text={"Education"} />
                 <Heading text={"Bachelor of technology "} />
                 <SubHeading text={"Dr. B . R. Ambedkar National Institute of Technology, Jalandhar"} />
                 <Content text={"Instrumentation and control engineering."} />
             </section>
-            <section className={styles.exp}>
+
+            <section className={styles.expandskills}>
+            <div className={styles.exp}>
                 <Title text={"Experience"} />
                 <ul>
                     <li>
-                        <Heading text={"UX/UI Intern"} />
-                        <SubHeading text={"AsFit &Co."} />
-                        <Content text={"AsFit is a Digital fitness platform that connects Gym, Trainers and Nutritionist directly to fitness enthusiasts."} />
+                        <Heading text={"Product Design Intern"} />
+                        <SubHeading text={"scholarbees.com"} />
+                        <Content text={"ScholarBees is an e-learning platform that provides affordable opportunities for students to find right tutors."} />
                     </li>
                     <li>
-                        <Heading text={"UX/UI Intern"} />
+                        <Heading text={"UX Design Intern"} />
+                        <SubHeading text={"Veefitt Ventures"} />
+                        <Content text={"Veefitt is a Digital fitness platform that connects Gyms, Trainers, Nutritionist directly to fitness enthusiasts."} />
+                    </li>
+                    <li>
+                        <Heading text={"User Researcher Intern"} />
                         <SubHeading text={"PECS&co. (Digital Kund)"} />
                         <Content text={"The app is about being medium between the patent holder, industry, and customer. My contribution was in user research, Information architecture and UI designing."} />
                     </li>
                 </ul>
-            </section>
-            <section   className={styles.skills}>
+            </div>
+            <div className={styles.skills}>
                 <Title text={"Skills"} />
                 <div className={`${fonts.poppins} ${styles.pills}`}>
                     {skills.map((skill)=>{
                         return <Pill text={skill} key={skill} />
                     })}
                 </div>
+            </div>
             </section>
             <section  className={styles.certi}>
                 <Title text={"Certificates"} />
+                <Carousel 
+                    images={[
+                        certi,
+                        certi,
+                        certi,
+                        certi,
+                        certi
+                    ]}
+                    maxWidth={'100%'}
+                    height={'75vh'}
+                    maxHeight={'30vw'}
+                />
             </section>
             <section  className={styles.contact}>
                 <Title text={"prasadj181@gmail.com"} />
@@ -103,8 +125,8 @@ function Resume () {
                         let's get in touch for UX/UI related work and projects.
                     </div>
                     <div>
-                        <span style={{display: 'inline-block',width: '20px'}}><img src={linkedin} alt="linked in" /></span>
-                        <span style={{display: 'inline-block',width: '20px', margin: '5px 5px'}}><img src={behance} alt="beehance" /></span>
+                        <a href="https://www.linkedin.com/in/prasadj181/" target="_blank" rel="noopener noreferrer"><span style={{display: 'inline-block',width: '20px'}}><img src={linkedin} alt="linked in" /></span></a>
+                        <a href="https://www.behance.net/prasadj181" target="_blank" rel="noopener noreferrer"><span style={{display: 'inline-block',width: '20px', margin: '5px 5px'}}><img src={behance} alt="beehance" /></span></a>
                     </div>
                 </div>
                 <div></div>

@@ -1,6 +1,6 @@
 .wrapper{
     /* border: 5px solid crimson; */
-    padding: 0px 5%;
+    padding: 0px 40px;
 }
 .intro{
     min-height: 100vh;
@@ -8,6 +8,7 @@
     flex-direction: column;
     align-items: center; 
     border-bottom: 1px solid #D8D3D3;
+    /* border: 5px solid crimson; */
     margin-top: 50px;
 }
 .me{
@@ -22,32 +23,46 @@
 .resumeWrapper{
     margin: 10px 0px;
     border-bottom: 1px solid #D8D3D3;
+    /* border-bottom: 5px solid crimson; */
     display: flex;
     flex-direction: column;
 }
 .resumeWrapper section{
     margin: 30px 0px;
+    /* border: 5px solid crimson; */
 }
 .title{
-    font-size: 1.4em;
+    font-size: 1.3em;
+    margin-bottom: 10px;
 }
 .heading{
-    font-size: 1.3em;
-}
-.subHeading{
     font-size: 1.2em;
 }
+.subHeading{
+    font-size: 1.1em;
+}
 .content{
-    font-size: 1em;
+    font-size: 0.9em;
     font-style: italic;
 }
+.pills{
+    /* margin: 40px 0px; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 .pill{
+    flex: auto;
     padding: 10px 20px;
     background-color: #474545;
     border-radius: 1024px;
     color: white;
     margin: 5px;
-    display: inline-block;
+    text-align: center;
+    font-size: 0.9em;
+}
+.exp ul li{
+    margin-bottom: 30px;
 }
 .contact{
     font-size: 1.2em;
@@ -66,6 +81,7 @@
         background-size: contain;
         background-position: center;
         background-repeat: no-repeat;
+        margin: 0px 25px;
     }
     .intro{
         flex-direction: row;
@@ -92,11 +108,19 @@
     .edu{
         width: 100%;
     }
+    .expandskills{
+        display: flex;
+        flex-direction: row;
+    }
+    .expandskills > div{
+        flex: 1;
+        /* border: 5px solid cadetblue; */
+    }
     .exp{
-        width: 40%;
+        margin-right: 50px;
     }
     .skills{
-        width: 40%;
+        margin-left: 50px;
     }
     .certi{
         width: 100%;

@@ -22,8 +22,7 @@ import sketch2 from '../assets/images/desktop/sketch2.jpg';
 import sketch3 from '../assets/images/desktop/sketch3.jpg';
 import sketch4 from '../assets/images/desktop/sketch4.jpg';
 import controls from '../assets/images/desktop/controls.svg';
-
-
+import Carousel from './Carousel';
 
 
 function Intro () {
@@ -201,6 +200,23 @@ function Peices () {
                 subHeading={["Let's check the ",<strong>wireframes</strong>," which are used for ",<strong>user testing 3</strong> ]}
                 image={queenImg}
             >
+                <Carousel
+                    images={[
+                        'https://i.ibb.co/pWZQ014/43d0c594384197-5e7e519c4a7f9.png',
+                        'https://i.ibb.co/9hkdYr8/b187c094384197-5e7e519c4b30a.png',
+                        'https://i.ibb.co/DbH6CDK/da40e394384197-5e7e519c4b770.png',
+                        'https://i.ibb.co/94qmB20/189e1394384197-5e7e519c48397.png',
+                        'https://i.ibb.co/5BNT0d1/99b55894384197-5e7e519c488cb.png',
+                        'https://i.ibb.co/ZB2XB06/22010694384197-5e7e519c4a14d.png',
+                        'https://i.ibb.co/LQ80CTq/7f5d3a94384197-5e7e519c49a73.png',
+                        'https://i.ibb.co/0KKfWT4/516b1694384197-5e7e519c48d10.png',
+                        'https://i.ibb.co/y8SNcvB/b1d9b394384197-5e7e519c493e0.png',
+                        'https://i.ibb.co/B2fbrKZ/cc0f8494384197-5e7e519c4acb7.png',
+                    ]}
+                    height={'75vh'}
+                    maxHeight={'75vh'}
+                    maxWidth={'500px'}
+            />
                 <div className={`${styles.queenDetails}`}>
                     <div>User Testing 1</div>
                     <ol>
@@ -209,7 +225,9 @@ function Peices () {
                     </ol>
                 </div>
             </Peice>
-            
+
+
+            {/* KING */}
             <Peice heading={"It's time to introduce the king. In chess all the things are done to protect the KING. "}
                 subHeading={["In design we do all the process to represent the ", <strong>useable interface.</strong>, " The interface which is medium between the user and the task."]}
                 image={kingImg}

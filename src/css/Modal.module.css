@@ -1,0 +1,25 @@
+.wrapper{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* opacity: 0.4; */
+    z-index: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dialog{
+    background-color: white;
+    width: 80%;
+    height: 80%;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
