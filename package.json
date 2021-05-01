@@ -1,6 +1,7 @@
 {
   "name": "prasadjadhav",
   "version": "0.1.0",
+  "homepage": "https://adityawankhede5.github.io/prasad",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
